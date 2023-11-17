@@ -1,0 +1,99 @@
+In the constructor
+Leaving the constructor
+In the constructor
+Leaving the constructor
+In the [] operator overload function with an incoming index of 0
+In the [] operator overload function with an incoming index of 1
+In the [] operator overload function with an incoming index of 2
+In the [] operator overload function with an incoming index of 3
+In the [] operator overload function with an incoming index of 4
+In the [] operator overload function with an incoming index of 5
+In the [] operator overload function with an incoming index of 6
+In the copy constructor
+Leaving the copy constructor
+In PopulateList2
+In the [] operator overload function with an incoming index of 0
+In the [] operator overload function with an incoming index of 1
+In the [] operator overload function with an incoming index of 2
+In the [] operator overload function with an incoming index of 3
+In the [] operator overload function with an incoming index of 4
+In the [] operator overload function with an incoming index of 5
+In the [] operator overload function with an incoming index of 6
+Out PopulateList2
+In the destructor
+Leaving the destructor
+In PopulateList
+In the [] operator overload function with an incoming index of 0
+In the [] operator overload function with an incoming index of 1
+In the [] operator overload function with an incoming index of 2
+In the [] operator overload function with an incoming index of 3
+In the [] operator overload function with an incoming index of 4
+In the [] operator overload function with an incoming index of 5
+In the [] operator overload function with an incoming index of 6
+In the [] operator overload function with an incoming index of 7
+In the [] operator overload function with an incoming index of 8
+In the [] operator overload function with an incoming index of 9
+In the [] operator overload function with an incoming index of 10
+In the [] operator overload function with an incoming index of 11
+In the [] operator overload function with an incoming index of 12
+In the [] operator overload function with an incoming index of 13
+In the [] operator overload function with an incoming index of 14
+In the [] operator overload function with an incoming index of 15
+In the [] operator overload function with an incoming index of 16
+Out PopulateList
+0 1 4 9 16 25 36 
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+In the default constructor
+Leaving the default constructor
+In the + operator overload function
+In the constructor
+Leaving the constructor
+In the [] operator overload function with an incoming index of 0
+In the [] operator overload function with an incoming index of 1
+In the [] operator overload function with an incoming index of 2
+In the [] operator overload function with an incoming index of 3
+In the [] operator overload function with an incoming index of 4
+In the [] operator overload function with an incoming index of 5
+In the [] operator overload function with an incoming index of 6
+In the [] operator overload function with an incoming index of 7
+In the [] operator overload function with an incoming index of 8
+In the [] operator overload function with an incoming index of 9
+In the [] operator overload function with an incoming index of 10
+In the [] operator overload function with an incoming index of 11
+In the [] operator overload function with an incoming index of 12
+In the [] operator overload function with an incoming index of 13
+In the [] operator overload function with an incoming index of 14
+In the [] operator overload function with an incoming index of 15
+In the [] operator overload function with an incoming index of 16
+In the [] operator overload function with an incoming index of 17
+In the [] operator overload function with an incoming index of 18
+In the [] operator overload function with an incoming index of 19
+In the [] operator overload function with an incoming index of 20
+In the [] operator overload function with an incoming index of 21
+In the [] operator overload function with an incoming index of 22
+In the [] operator overload function with an incoming index of 23
+Leaving the + operator overload function
+In the copy constructor
+Leaving the copy constructor
+In the destructor
+Leaving the destructor
+In the destructor
+Leaving the destructor
+0 1 4 9 16 25 36 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+In the [] operator overload function with an incoming index of 4
+In the [] operator overload function with an incoming index of 400
+In the [] operator overload function with an incoming index of -4
+100 1 4 9 100 25 36 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 100 
+100 1 4 9 100 25 36 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 100 0 0 0 0 0 0 
+In the copy constructor
+Leaving the copy constructor
+100 1 4 9 100 25 36 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 100 0 0 0 0 0 0 
+100 1 4 9 100 
+In the destructor
+Leaving the destructor
+In the destructor
+Leaving the destructor
+In the destructor
+Leaving the destructor
+In the destructor
+Leaving the destructor
